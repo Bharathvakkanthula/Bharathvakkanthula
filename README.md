@@ -13,26 +13,14 @@
 
 ## 🛠 Tech Stack
 
-### 👨‍💻 Programming
-- Python
-- Java
+### 💻 Tech Stack
 
-### 🌐 Web Development
-- HTML
-- CSS
-- Flask
-- MySQL
-
-### 🤖 Machine Learning
-- TensorFlow
-- Keras
-- OpenCV
-- Scikit-learn
-
-### 🔧 Tools
-- Git
-- GitHub
-- VS Code
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white)
 
 ---
 
@@ -54,13 +42,15 @@ Full Stack web application with authentication and CRUD features.
 
 ## 📊 GitHub Stats
 
-![Bharath's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bharathvakkanthula&show_icons=true&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=Bharathvakkanthula&theme=tokyonight)
+
 
 ---
 
 ## 📫 Connect With Me
 
-- 🔗 LinkedIn: https://www.linkedin.com/in/vakkanthula-bharath/
+- 🔗 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Bharath%20Vakkanthula-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vakkanthula-bharath/)
+
 - 📧 Email:bharathvakkanthula@gmail.com
 
 ---
