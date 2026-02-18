@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bharath Vakkanthula</h1>
-<h3 align="center">Full Stack Developer | Machine Learning Enthusiast</h3>
+<h3 align="center">Full Stack Developer | Python & Java | Machine Learning | Open to Opportunities
+</h3>
 
 ---
 
@@ -8,6 +9,7 @@
 - 💻 Passionate about Full Stack Development & AI
 - 🤖 Built real-time Computer Vision & ML projects
 - 📚 Currently improving DSA & Backend skills
+- 💼 Actively seeking Full Stack / Python Developer opportunities
 
 ---
 
