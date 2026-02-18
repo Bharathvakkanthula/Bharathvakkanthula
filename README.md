@@ -60,8 +60,8 @@ Full Stack web application with authentication and CRUD features.
 
 ## 📫 Connect With Me
 
-- 🔗 LinkedIn: (Add your LinkedIn link here)
-- 📧 Email: (Add your email here)
+- 🔗 LinkedIn: https://www.linkedin.com/in/vakkanthula-bharath/
+- 📧 Email:bharathvakkanthula@gmail.com
 
 ---
 
