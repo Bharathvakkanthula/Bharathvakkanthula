@@ -1,16 +1,68 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Bharath Vakkanthula</h1>
+<h3 align="center">Full Stack Developer | Machine Learning Enthusiast</h3>
 
-<!--
-**Bharathvakkanthula/Bharathvakkanthula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🎓 Computer Science Graduate
+- 💻 Passionate about Full Stack Development & AI
+- 🤖 Built real-time Computer Vision & ML projects
+- 📚 Currently improving DSA & Backend skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Tech Stack
+
+### 👨‍💻 Programming
+- Python
+- Java
+
+### 🌐 Web Development
+- HTML
+- CSS
+- Flask
+- MySQL
+
+### 🤖 Machine Learning
+- TensorFlow
+- Keras
+- OpenCV
+- Scikit-learn
+
+### 🔧 Tools
+- Git
+- GitHub
+- VS Code
+
+---
+
+## 📌 Featured Projects
+
+### 🟢 Face Mask Detection
+Real-time face mask detection system using OpenCV & Deep Learning.
+
+### 🟢 Liver Cirrhosis Prediction
+Machine Learning model to predict liver disease using medical dataset.
+
+### 🟢 Virtual Trial Room
+Computer Vision-based virtual clothing try-on web application.
+
+### 🟢 Blogging Application
+Full Stack web application with authentication and CRUD features.
+
+---
+
+## 📊 GitHub Stats
+
+![Bharath's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bharathvakkanthula&show_icons=true&theme=tokyonight)
+
+---
+
+## 📫 Connect With Me
+
+- 🔗 LinkedIn: (Add your LinkedIn link here)
+- 📧 Email: (Add your email here)
+
+---
+
+⭐️ From Bharath Vakkanthula
