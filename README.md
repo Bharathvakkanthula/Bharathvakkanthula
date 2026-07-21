@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bharath Vakkanthula</h1>
-<h3 align="center">Full Stack Developer | Python & Java | Machine Learning | Open to Opportunities
+<h3 align="center">Full Stack Developer | Java & Python & | Machine Learning | Open to Opportunities
 </h3>
 
 ---
